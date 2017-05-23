@@ -1,0 +1,4 @@
+Your result details
+Name: fzf
+email: gz'g
+Score: 0.0%
